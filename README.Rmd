@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# visualText
+# visualText 
 
 <!-- badges: start -->
 <!-- badges: end -->
